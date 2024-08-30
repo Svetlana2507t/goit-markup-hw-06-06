@@ -453,4 +453,10 @@
 /* #endregion Footer for mobile */
 
 /* #region Backdrop Modal for mobile */
+@media screen and (min-width: 320px) and (max-width: 767px) {
+  .modal {
+    width: 288px;
+    padding: 72px 16px 24px;
+  }
+}
 /* #endregion Backdrop Modal for mobile */
