@@ -1009,18 +1009,5 @@ p {
 
 /* #endregion Backdrop Modal Window */
 
-/* #region Backdrop modal for tablet*/
+/* #region Backdrop Modal for tablet*/
 /* #endregion Backdrop Modal for tablet*/
-
-@media screen and (min-width: 768px) and (max-width: 1157px) {
-  .container {
-    max-width: 768px;
-  }
-}
-@media screen and (min-width: 1158px) {
-  .container {
-    max-width: 1158px;
-    padding-left: 15px;
-    padding-right: 15px;
-  }
-}
