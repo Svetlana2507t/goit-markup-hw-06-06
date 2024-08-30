@@ -452,9 +452,9 @@ p {
 }
 .team-members-list-item {
   background-color: #ffffff;
-  width: calc((100% - 3 * 24px) / 4);
+  /* width: calc((100% - 3 * 24px) / 4); */
   border-radius: 0 0 4px 4px;
-  padding: 0px 0px 32px 0px;
+  padding: 0;
   /* width: 264px; */
   /* height: 380px; */
   /* height: 428px; */
